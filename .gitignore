@@ -1,0 +1,8 @@
+build/
+src/base/version.h
+dist/windows/*.exe
+release/
+build*/
+*.pdb
+*.obj
+.vs/
